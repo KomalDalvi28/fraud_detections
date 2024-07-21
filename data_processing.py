@@ -1,11 +1,2 @@
-print("Adding code")
-
-
-print("ok")
-
-
-
-
-
-
+print("Komal")
 
